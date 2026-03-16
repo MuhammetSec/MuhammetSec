@@ -37,6 +37,23 @@ Henüz bir alan seçmedim. Ama seçtiğimde, o alanın en iyisi olacağım.
 
 ---
 
+## `cat achievements.log`
+
+<div align="center">
+
+| 🏆 Başarı | Detay | Tarih |
+|-----------|-------|-------|
+| 🥈 **Türkiye Siber Vatan Programı CTF** | Düzce il **2.si** — İlk 40 / Türkiye geneli — 9900/10000 puan | Ara. 2025 |
+| 🎯 **CAPT** — Certified Associate Penetration Tester | Hackviser — `HV-CAPT-76IMCM68` | Şub. 2026 |
+| 🛡️ **SOC Analyst Learning Path** | LetsDefend | Kas. 2025 |
+| 🎓 **Cybersecurity for Students Learning Path** | LetsDefend | Eki. 2025 |
+
+> 🎯 *Hedef: Siber Vatan yarı finalinde ilk 5 — finale katılım — derece.*
+
+</div>
+
+---
+
 ## `ls -la tools/`
 
 <div align="center">
@@ -115,6 +132,18 @@ Henüz bir alan seçmedim. Ama seçtiğimde, o alanın en iyisi olacağım.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetSec&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
 
 </div>
+
+---
+
+## `cat blog/latest.txt`
+
+> Teknik write-up'lar, zafiyet analizleri ve siber güvenlik notları.
+
+- 📝 [Open Redirect Vulnerability — CTF Based](https://medium.com/@0xMuhammet/open-redirect-vulnerability-ctf-based-922fa40d36ff)
+- 📝 [Hackviser Write-Up — Reflected XSS via HTML Attribute Manipulation](https://medium.com/@0xMuhammet/hackviser-write-up-en-tr-reflected-xss-via-html-attribute-manipulation-441c5535f409)
+- 📝 [Hackviser Write-Up — Stored XSS in Anchor href Attribute](https://medium.com/@0xMuhammet/hackviser-write-up-en-tr-stored-xss-in-anchor-href-attribute-html-encoded-2566946d47d8)
+
+➡️ Tüm yazılar: [medium.com/@0xMuhammet](https://medium.com/@0xMuhammet)
 
 ---
 
