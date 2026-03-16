@@ -65,13 +65,44 @@ Henüz bir alan seçmedim. Ama seçtiğimde, o alanın en iyisi olacağım.
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-_next_target-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**Offensive Tools**
+**Offensive & Recon Tools**
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+**Password & Crypto**
+
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-DC143C?style=for-the-badge&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF8C00?style=for-the-badge&logoColor=white)
+
+**Steganography**
+
 ![Steghide](https://img.shields.io/badge/Steghide-2F4F4F?style=for-the-badge&logoColor=white)
+![Stegseek](https://img.shields.io/badge/Stegseek-1a1a2e?style=for-the-badge&logoColor=white)
+
+**SIEM & Monitoring (Blue Team)**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AAAFF?style=for-the-badge&logoColor=white)
+
+**Networking**
+
+![TCP/IP](https://img.shields.io/badge/TCP/IP-OSI_Model-00b894?style=for-the-badge&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-Proxy-6c5ce7?style=for-the-badge&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white)
+
+**Web Security**
+
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![SQLi](https://img.shields.io/badge/SQL_Injection-CC0000?style=for-the-badge&logoColor=white)
+![XSS](https://img.shields.io/badge/XSS-FF6600?style=for-the-badge&logoColor=white)
+
+**CTF Platformları**
+
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://www.hackthebox.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
 
 ---
 
